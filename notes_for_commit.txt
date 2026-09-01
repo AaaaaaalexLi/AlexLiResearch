@@ -1,7 +1,7 @@
-# 开始工作前
+# before
 git pull
 
-# 做完修改后
+# after
 git add .
 git commit -m "描述这次修改"
 git push
